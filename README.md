@@ -16,3 +16,5 @@ https://trimbak15.github.io/Amazon-Clone/
 
 * Hyperlinks of the products as well as the pricetag along with its specifications.
 ![Amazon3](https://user-images.githubusercontent.com/118504736/232724611-9a594cdb-bbd4-4d26-bdf8-837de24af746.png)
+
+this is normal PR
