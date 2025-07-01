@@ -18,3 +18,4 @@ https://trimbak15.github.io/Amazon-Clone/
 ![Amazon3](https://user-images.githubusercontent.com/118504736/232724611-9a594cdb-bbd4-4d26-bdf8-837de24af746.png)
 
 this is normal PR
+normal PR
